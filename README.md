@@ -57,4 +57,4 @@ This project focuses on identifying operational bottlenecks, margin-eroding prom
 ---
 
 ## Author
-**Aspiring Data Analyst** *Portfolio Project: E-Commerce Revenue & Operational Optimization Audit*
+**Alishba Nadeem** *Portfolio Project: E-Commerce Revenue & Operational Optimization Audit*
